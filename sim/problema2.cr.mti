@@ -1,0 +1,159 @@
+C:/ProjetosModelSim/problema2/sim/UC.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/UC.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/BancoRegistradores.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/BancoRegistradores.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module BancoRegistradores
+
+Top level modules:
+	BancoRegistradores
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/integradorGeral.v {2 {vlog -work work -stats=none {C:\ProjetosModelSim\problema2\sim\integradorGeral.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ram
+-- Compiling module PC
+-- Compiling module IF
+-- Compiling module BancoRegistradores
+-- Compiling module Extensor
+-- Compiling module MuxResul
+-- Compiling module ID
+-- Compiling module RegistradorFlags
+-- Compiling module TestadorFlags
+-- Compiling module MuxPC
+-- Compiling module MuxExtensor
+-- Compiling module ULA
+-- Compiling module memoriaDados
+-- Compiling module EX
+-- Compiling module UnidadeControle
+** Warning: MuxResul.v(1): (vlog-2275) 'MuxResul' already exists and will be overwritten.
+
+-- Compiling module MuxResul
+** Warning: memoriaDados.v(6): (vlog-2275) 'memoriaDados' already exists and will be overwritten.
+
+-- Compiling module memoriaDados
+** Warning: MuxExtensor.v(1): (vlog-2275) 'MuxExtensor' already exists and will be overwritten.
+
+-- Compiling module MuxExtensor
+-- Compiling module IntegradorGeral
+
+Top level modules:
+	IntegradorGeral
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/ULA.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/ULA.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ULA
+
+Top level modules:
+	ULA
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/TestadorFlags.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/TestadorFlags.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module TestadorFlags
+
+Top level modules:
+	TestadorFlags
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/PC.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/PC.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/zzzTesteMemoria.v {1 {vlog -work work -stats=none {C:\ProjetosModelSim\problema2\sim\zzzTesteMemoria.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ram
+-- Compiling module zzzTesteMemoria
+
+Top level modules:
+	zzzTesteMemoria
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/MuxPC.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/MuxPC.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module MuxPC
+
+Top level modules:
+	MuxPC
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/ID.v {1 {vlog -work work -stats=none {C:\ProjetosModelSim\problema2\sim\ID.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module BancoRegistradores
+-- Compiling module Extensor
+-- Compiling module MuxResul
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/EX.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/EX.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module RegistradorFlags
+-- Compiling module TestadorFlags
+-- Compiling module MuxPC
+-- Compiling module MuxExtensor
+-- Compiling module ULA
+-- Compiling module memoriaDados
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/IF.v {1 {vlog -work work -stats=none {C:\ProjetosModelSim\problema2\sim\IF.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ram
+-- Compiling module PC
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/Extensor.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/Extensor.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor
+
+Top level modules:
+	Extensor
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/UnidadeControle.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/UnidadeControle.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module UnidadeControle
+
+Top level modules:
+	UnidadeControle
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/MuxExtensor.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/MuxExtensor.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module MuxExtensor
+
+Top level modules:
+	MuxExtensor
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/RegistradorFlags.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/RegistradorFlags.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module RegistradorFlags
+
+Top level modules:
+	RegistradorFlags
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/single_port_rom.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/single_port_rom.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module sp_rom
+
+Top level modules:
+	sp_rom
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/memoriaDados.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/memoriaDados.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module memoriaDados
+
+Top level modules:
+	memoriaDados
+
+} {} {}} C:/ProjetosModelSim/problema2/sim/MuxResul.v {1 {vlog -work work -stats=none C:/ProjetosModelSim/problema2/sim/MuxResul.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module MuxResul
+
+Top level modules:
+	MuxResul
+
+} {} {}}

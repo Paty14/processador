@@ -1,0 +1,4 @@
+Resultado Obtido xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx =          x - Resultado Esperado xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx =          x
+Acerto
+Falhas =           0
+Acertos =           1
