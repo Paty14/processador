@@ -5,443 +5,443 @@ cModel Technology
 Z0 dC:\altera\13.1
 vBancoRegistradores
 !i10b 1
-Z1 !s100 :;gU5I38h<2Y[8Mg`zRe]1
-Z2 In8_GCWIN6ZjC1hZC2U[6h1
-Z3 VDAkmAmk`ILjNakWej?3>10
-Z4 dC:\Users\Paty\Documents\uefs\2015.2\SD\problema2\problema2\sim
-Z5 w1456956675
-Z6 8BancoRegistradores.v
-Z7 FBancoRegistradores.v
+!s100 VPM7;;1iiE5im<g1WHG<Z0
+IJEzW_ScMm_e[XF=QPZUG^0
+Z1 VDAkmAmk`ILjNakWej?3>10
+Z2 dC:\Users\Paty\Documents\uefs\2015.2\SD\problema2\problema2\processador\sim
+w1457964747
+8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/BancoRegistradores.v
+FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/BancoRegistradores.v
 L0 1
-Z8 OV;L;10.1d;51
+Z3 OV;L;10.1d;51
 r1
 !s85 0
 31
-Z9 !s108 1457369746.019000
-Z10 !s107 UnidadeControle.v|memoriaDados.v|ULA.v|MuxExtensor.v|MuxPC.v|TestadorFlags.v|RegistradorFlags.v|EX.v|MuxResul.v|Extensor.v|BancoRegistradores.v|ID.v|PC.v|ram.v|IF.v|IntegradorGeral.v|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/testeIntegracao.v|
-Z11 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/testeIntegracao.v|
+!s108 1457964764.333000
+!s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/BancoRegistradores.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/BancoRegistradores.v|
 !s101 -O0
-Z12 o-work work -O0
-Z13 n@banco@registradores
+Z4 o-work work -O0
+Z5 n@banco@registradores
 vEX
-!i10b 1
-Z14 !s100 =[3XYG;n08acHnmH3;8`M2
-Z15 IF?d^?fR1PGbdM@Oo12c262
-Z16 VYCfXUWa66]YFQzBlbbCOf1
-R4
-Z17 w1457019669
+Z6 !s100 =[3XYG;n08acHnmH3;8`M2
+Z7 IF?d^?fR1PGbdM@Oo12c262
+Z8 VYCfXUWa66]YFQzBlbbCOf1
+R2
+Z9 w1457019669
 8EX.v
 FEX.v
 L0 8
-R8
+R3
 r1
-!s85 0
 31
-R9
-R10
-R11
-!s101 -O0
-R12
+Z10 !s108 1457964085.859000
+Z11 !s107 UnidadeControle.v|memoriaDados.v|ULA.v|MuxExtensor.v|MuxPC.v|TestadorFlags.v|RegistradorFlags.v|EX.v|MuxResul.v|Extensor.v|BancoRegistradores.v|ID.v|PC.v|ram.v|IF.v|IntegradorGeral.v|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/testeIntegracao.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/testeIntegracao.v|
+R4
 n@e@x
-vExtensor
 !i10b 1
-Z18 !s100 ?zWYf;IRH95n?O99PJ[d^0
-Z19 ITGGGg]K44Z@9`35C2I@3Y3
-Z20 VAjo8kN5GMoKT^<J5>QSPR3
-R4
-Z21 w1457311244
-Z22 8Extensor.v
-Z23 FExtensor.v
-L0 1
-R8
-r1
 !s85 0
+!s101 -O0
+vExtensor
+Z13 !s100 ?zWYf;IRH95n?O99PJ[d^0
+Z14 ITGGGg]K44Z@9`35C2I@3Y3
+Z15 VAjo8kN5GMoKT^<J5>QSPR3
+R2
+Z16 w1457311244
+Z17 8Extensor.v
+Z18 FExtensor.v
+L0 1
+R3
+r1
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z24 n@extensor
-vID
-!i10b 1
-Z25 !s100 WhD:6d6S4N36VmfG5CSn`2
-Z26 IFD;>mkz?ROWO14F=m@JFA0
-Z27 V8>DToGj8nV[ObYlhZb?e23
 R4
-R21
+Z19 n@extensor
+!i10b 1
+!s85 0
+!s101 -O0
+vID
+Z20 !s100 WhD:6d6S4N36VmfG5CSn`2
+Z21 IFD;>mkz?ROWO14F=m@JFA0
+Z22 V8>DToGj8nV[ObYlhZb?e23
+R2
+R16
 8ID.v
 FID.v
 L0 6
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-n@i@d
-vIF
-!i10b 1
-Z28 !s100 ?nifDfGiX0C8X7O;0215J2
-Z29 I]lBmC0]QG8Lci_B9n1dkD1
-Z30 V7iDEI>Iah>On3WB5BD8e31
 R4
-Z31 w1457019852
+n@i@d
+!i10b 1
+!s85 0
+!s101 -O0
+vIF
+Z23 !s100 ?nifDfGiX0C8X7O;0215J2
+Z24 I]lBmC0]QG8Lci_B9n1dkD1
+Z25 V7iDEI>Iah>On3WB5BD8e31
+R2
+Z26 w1457019852
 8IF.v
 FIF.v
 L0 5
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
+R4
 n@i@f
-vIntegradorGeral
 !i10b 1
-Z32 !s100 MBNFUjjYnNU`:@o8An[BS2
-Z33 Ic88T5^b7AikDD49B;ngUj2
-Z34 VFIiLLdHA[j]BMZ6fh`CE@0
-R4
-Z35 w1457358585
-Z36 8IntegradorGeral.v
-Z37 FIntegradorGeral.v
-L0 9
-R8
-r1
 !s85 0
+!s101 -O0
+vIntegradorGeral
+Z27 Ic88T5^b7AikDD49B;ngUj2
+Z28 VFIiLLdHA[j]BMZ6fh`CE@0
+R2
+Z29 w1457358585
+Z30 8IntegradorGeral.v
+Z31 FIntegradorGeral.v
+L0 9
+R3
+r1
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z38 n@integrador@geral
-vMemoriaDados
-Z39 I5;Mak?S8UNnb[;bEY@iC;3
-Z40 Vz:E8DT6h06PGK7Y1W_W^G0
 R4
-Z41 w1456518113
-Z42 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v
-Z43 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v
-L0 2
-R8
-r1
-31
-R12
-Z44 n@memoria@dados
-Z45 !s100 53Z2_Egc@ii<@9VL@?6Pn3
-Z46 !s108 1456518123.710000
-Z47 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v|
-Z48 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v|
+Z32 n@integrador@geral
+Z33 !s100 MBNFUjjYnNU`:@o8An[BS2
 !i10b 1
 !s85 0
 !s101 -O0
 vmemoriaDados
-!i10b 1
-Z49 !s100 [3Ae?To_[7>05=z=WPZ?i2
-Z50 I?L5A<_I8LFO598=ZGg?:B0
-Z51 VKdUXkYJ=4I7;65o>;GZ;X2
-R4
-Z52 w1456942699
-Z53 8memoriaDados.v
-Z54 FmemoriaDados.v
+Z34 ID:>9Pi2N;]n]Jjo6gHzK73
+Z35 VKdUXkYJ=4I7;65o>;GZ;X2
+R2
+Z36 w1457964032
+Z37 8memoriaDados.v
+Z38 FmemoriaDados.v
 L0 6
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z55 nmemoria@dados
-vMUX_ULA
-Z56 IFB?>_K8PkH:Ffz@XMSEY51
-Z57 V`JN@9S9cnhjKRR_L]QIcM3
-Z58 dC:/ProjetosModelSim/problema2/sim
-Z59 w1456524056
-Z60 FMuxExtensor.v
-FEX.v
-Z61 8C:\ProjetosModelSim\problema2\sim\integradorGeral.v
-Z62 FC:\ProjetosModelSim\problema2\sim\integradorGeral.v
-L0 1
-Z63 OV;L;10.3d;59
+R4
+Z39 nmemoria@dados
+Z40 !s100 12H73>HSB9Bfb`LUSo<j<2
+!i10b 1
+!s85 0
+!s101 -O0
+vMemoriaDados
+Z41 I5;Mak?S8UNnb[;bEY@iC;3
+Z42 Vz:E8DT6h06PGK7Y1W_W^G0
+Z43 dC:\Users\Paty\Documents\uefs\2015.2\SD\problema2\problema2\sim
+Z44 w1456518113
+Z45 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v
+Z46 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v
+L0 2
+R3
 r1
 31
-Z64 !s90 -reportprogress|300|-work|work|-stats=none|C:\ProjetosModelSim\problema2\sim\integradorGeral.v|
-Z65 o-work work
-Z66 n@m@u@x_@u@l@a
-Z67 !s110 1457305719
-Z68 !s100 NFz?f9PHJTmk<7fF8PiL[1
-Z69 !s108 1457305718.952000
-Z70 !s107 ULA.v|MuxExtensor.v|MuxPC.v|TestadorFlags.v|RegistradorFlags.v|EX.v|Extensor.v|BancoRegistradores.v|ID.v|PC.v|single_port_rom.v|IF.v|C:\ProjetosModelSim\problema2\sim\integradorGeral.v|
+R4
+Z47 n@memoria@dados
+Z48 !s100 53Z2_Egc@ii<@9VL@?6Pn3
+Z49 !s108 1456518123.710000
+Z50 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/memoriaDados.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_ULA
+Z52 IFB?>_K8PkH:Ffz@XMSEY51
+Z53 V`JN@9S9cnhjKRR_L]QIcM3
+Z54 dC:/ProjetosModelSim/problema2/sim
+Z55 w1456524056
+Z56 FMuxExtensor.v
+FEX.v
+Z57 8C:\ProjetosModelSim\problema2\sim\integradorGeral.v
+Z58 FC:\ProjetosModelSim\problema2\sim\integradorGeral.v
+L0 1
+Z59 OV;L;10.3d;59
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|-stats=none|C:\ProjetosModelSim\problema2\sim\integradorGeral.v|
+Z61 o-work work
+Z62 n@m@u@x_@u@l@a
+Z63 !s110 1457305719
+Z64 !s100 NFz?f9PHJTmk<7fF8PiL[1
+Z65 !s108 1457305718.952000
+Z66 !s107 ULA.v|MuxExtensor.v|MuxPC.v|TestadorFlags.v|RegistradorFlags.v|EX.v|Extensor.v|BancoRegistradores.v|ID.v|PC.v|single_port_rom.v|IF.v|C:\ProjetosModelSim\problema2\sim\integradorGeral.v|
 !i10b 1
 !s85 0
 !i113 1
 vMuxExtensor
-!i10b 1
-Z71 !s100 L_;zf;_kBiNo07UggL83k1
-Z72 I@A>hgH=7Fzn`la^_A;O]=0
-Z73 VZF`87LK;7=4fb]bVULZgR0
-R4
-Z74 w1457311397
-Z75 8MuxExtensor.v
-R60
+Z67 I@A>hgH=7Fzn`la^_A;O]=0
+Z68 VZF`87LK;7=4fb]bVULZgR0
+R2
+Z69 w1457311397
+Z70 8MuxExtensor.v
+R56
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z76 n@mux@extensor
+R4
+Z71 n@mux@extensor
+Z72 !s100 L_;zf;_kBiNo07UggL83k1
+!i10b 1
+!s85 0
+!s101 -O0
 vMuxPC
-!i10b 1
-Z77 !s100 iGfB^H:@;RNcR6=Od?eG41
-Z78 I:@Z_Aj[P;V4z0gLS:j8Kl3
-Z79 V;N?`KF4K;hORH=SfndZ]11
-R4
-Z80 w1457311386
-Z81 8MuxPC.v
-Z82 FMuxPC.v
+Z73 I:@Z_Aj[P;V4z0gLS:j8Kl3
+Z74 V;N?`KF4K;hORH=SfndZ]11
+R2
+Z75 w1457311386
+Z76 8MuxPC.v
+Z77 FMuxPC.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z83 n@mux@p@c
+R4
+Z78 n@mux@p@c
+Z79 !s100 iGfB^H:@;RNcR6=Od?eG41
+!i10b 1
+!s85 0
+!s101 -O0
 vMuxResul
-!i10b 1
-Z84 !s100 ISz^ozS`Hmmkb=@EEYJiN1
-Z85 IO<6<=j^noVN6a<=MR=8H12
-Z86 VaRRd=Ah9>lB]0GGNO]bfc2
-R4
-Z87 w1457311144
-Z88 8MuxResul.v
-Z89 FMuxResul.v
+Z80 IO<6<=j^noVN6a<=MR=8H12
+Z81 VaRRd=Ah9>lB]0GGNO]bfc2
+R2
+Z82 w1457311144
+Z83 8MuxResul.v
+Z84 FMuxResul.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z90 n@mux@resul
-vPC
-!i10b 1
-Z91 !s100 d9]SDnnO22hBRTLl^7mbA3
-Z92 I<RA;<]hdk::ZJ8KROf:U03
-Z93 VHl``K<@24`EghQ`;Vb:8J0
 R4
-Z94 w1456157333
+Z85 n@mux@resul
+Z86 !s100 ISz^ozS`Hmmkb=@EEYJiN1
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z87 I<RA;<]hdk::ZJ8KROf:U03
+Z88 VHl``K<@24`EghQ`;Vb:8J0
+R2
+Z89 w1456157333
 8PC.v
 FPC.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
+R4
 n@p@c
-vram
+Z90 !s100 d9]SDnnO22hBRTLl^7mbA3
 !i10b 1
-Z95 !s100 deU29XCWgcDAF6X3bJ`K11
-Z96 IbSKBH0`<dlc>Ra`jd@anW3
-Z97 V8`WIZQ]zU;G<KnGd6FIPf3
-R4
-Z98 w1457356762
-Z99 8ram.v
-Z100 Fram.v
-L0 10
-R8
-r1
 !s85 0
+!s101 -O0
+vram
+Z91 IYfGgzfCo35Aafl=m4a:NQ0
+Z92 V8`WIZQ]zU;G<KnGd6FIPf3
+R2
+Z93 w1457963328
+Z94 8ram.v
+Z95 Fram.v
+L0 11
+R3
+r1
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-vRegistrador_Flags
-Z101 IoGJf24bCmgPkOOLM?6h9E2
-Z102 VdlUSK3RIVhPI>@hPDDAQZ3
 R4
-Z103 w1456020598
-Z104 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v
-Z105 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v
+Z96 !s100 _U3VHCJDcS;b6j[W39@W]0
+!i10b 1
+!s85 0
+!s101 -O0
+vRegistrador_Flags
+Z97 IoGJf24bCmgPkOOLM?6h9E2
+Z98 VdlUSK3RIVhPI>@hPDDAQZ3
+R43
+Z99 w1456020598
+Z100 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v
+Z101 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v
 L0 1
-R8
+R3
 r1
 31
-R12
-Z106 n@registrador_@flags
-Z107 !s100 Dg]>bH9G:^?jdSmd`F_Vl1
-Z108 !s108 1456020605.927000
-Z109 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v|
-Z110 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v|
+R4
+Z102 n@registrador_@flags
+Z103 !s100 Dg]>bH9G:^?jdSmd`F_Vl1
+Z104 !s108 1456020605.927000
+Z105 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v|
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/RegistradorFlags.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vRegistradorFlags
-!i10b 1
-Z111 !s100 Z9_]JC9^Bj9YD>9GNF0<L3
-Z112 IDBS[]jF:ZSe??Mj`lWF[f3
-Z113 VoViXaED`izLBMDO^4^3ZZ1
-R4
-Z114 w1456158136
-Z115 8RegistradorFlags.v
-Z116 FRegistradorFlags.v
+Z107 IDBS[]jF:ZSe??Mj`lWF[f3
+Z108 VoViXaED`izLBMDO^4^3ZZ1
+R2
+Z109 w1456158136
+Z110 8RegistradorFlags.v
+Z111 FRegistradorFlags.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z117 n@registrador@flags
+R4
+Z112 n@registrador@flags
+Z113 !s100 Z9_]JC9^Bj9YD>9GNF0<L3
+!i10b 1
+!s85 0
+!s101 -O0
 vsp_rom
-Z118 Ioi1K;PPH2I9EbQoCEO>4`3
-R57
-R58
-Z119 w1456523056
-Z120 8C:/ProjetosModelSim/problema2/sim/single_port_rom.v
-Z121 FC:/ProjetosModelSim/problema2/sim/single_port_rom.v
+Z114 Ioi1K;PPH2I9EbQoCEO>4`3
+R53
+R54
+Z115 w1456523056
+Z116 8C:/ProjetosModelSim/problema2/sim/single_port_rom.v
+Z117 FC:/ProjetosModelSim/problema2/sim/single_port_rom.v
 L0 30
-R63
+R59
 r1
 31
-R65
-Z122 !s110 1457354738
-Z123 !s100 3eLhKT5l=AAi;l3AM0OTl2
-Z124 !s108 1457354738.452000
-Z125 !s107 C:/ProjetosModelSim/problema2/sim/single_port_rom.v|
-Z126 !s90 -reportprogress|300|-work|work|-stats=none|C:/ProjetosModelSim/problema2/sim/single_port_rom.v|
+R61
+Z118 !s110 1457354738
+Z119 !s100 3eLhKT5l=AAi;l3AM0OTl2
+Z120 !s108 1457354738.452000
+Z121 !s107 C:/ProjetosModelSim/problema2/sim/single_port_rom.v|
+Z122 !s90 -reportprogress|300|-work|work|-stats=none|C:/ProjetosModelSim/problema2/sim/single_port_rom.v|
 !i10b 1
 !s85 0
 !i113 1
 vTestadorFlags
-!i10b 1
-Z127 !s100 Un@bL>Hl25fh]EQA<jYM13
-Z128 I7N<H_KHC;XQQ?`VEL1FJh1
-Z129 V`OWVDQJY1dj:PbmK8E5jG1
-R4
-Z130 w1457311568
-Z131 8TestadorFlags.v
-Z132 FTestadorFlags.v
+Z123 I7N<H_KHC;XQQ?`VEL1FJh1
+Z124 V`OWVDQJY1dj:PbmK8E5jG1
+R2
+Z125 w1457311568
+Z126 8TestadorFlags.v
+Z127 FTestadorFlags.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z133 n@testador@flags
+R4
+Z128 n@testador@flags
+Z129 !s100 Un@bL>Hl25fh]EQA<jYM13
+!i10b 1
+!s85 0
+!s101 -O0
 vtesteIntegracao
-!i10b 1
-!s100 SQh32W2n?S839U:BU;OBF2
-I1GgbQR1@?AMkCR0^2la@E2
-Z134 VYoGaZWRPWl1H_2@io55fR3
-R4
-w1457366800
-Z135 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/testeIntegracao.v
-Z136 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/testeIntegracao.v
+Z130 !s100 BoaeClTGnaaE_Z_Z>G3@70
+Z131 IfU1^8]_0=Hdb0nVHFn_R`1
+Z132 VYoGaZWRPWl1H_2@io55fR3
+R2
+Z133 w1457366800
+Z134 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/testeIntegracao.v
+Z135 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/testeIntegracao.v
 L0 3
-R8
+R3
 r1
-!s85 0
 31
-R9
 R10
 R11
-!s101 -O0
 R12
-Z137 nteste@integracao
+R4
+Z136 nteste@integracao
+!i10b 1
+!s85 0
+!s101 -O0
 vULA
-!i10b 1
-Z138 !s100 mfVTM04;O^lMoZj[LO`7U0
-Z139 IIV;aMZUeG=TZPCU`;=kKA0
-Z140 VGIBjZZkjB1^:2NCDW9d_42
-R4
-Z141 w1456408049
-Z142 8ULA.v
-Z143 FULA.v
+Z137 IT4Z0fcG6V4LzK4jE;kMdl1
+Z138 VGIBjZZkjB1^:2NCDW9d_42
+R2
+Z139 w1456408049
+Z140 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/ULA.v
+Z141 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/ULA.v
 L0 1
-R8
+R3
 r1
-!s85 0
 31
-R9
-R10
-R11
-!s101 -O0
-R12
-Z144 n@u@l@a
-vUnidadeControle
+R4
+Z142 n@u@l@a
+Z143 !s100 S89g6IIYh]@E4WZ7nMDIK3
+Z144 !s108 1457964091.339000
+Z145 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/ULA.v|
+Z146 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/ULA.v|
 !i10b 1
-Z145 !s100 Moa<MA2aNA@`67c3hlz>X3
-Z146 IQdz<CzJE`Z>g=^G15lUo@1
-Z147 Vij=5R=OW^_V8OZa8CSRK73
-R4
-Z148 w1457045491
-Z149 8UnidadeControle.v
-Z150 FUnidadeControle.v
-L0 2
-R8
-r1
 !s85 0
-31
-R9
-R10
-R11
 !s101 -O0
-R12
-Z151 n@unidade@controle
-vzzzTesteMemoria
-Z152 I@c]k6WPOg:11P0LC949`O2
-Z153 VdfN9gQS5e`1BAZ>FXe=W80
-R4
-Z154 w1457353297
-Z155 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v
-Z156 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v
-L0 3
-R8
+vUnidadeControle
+Z147 InNFNkULYbDA^_A]o>Cn<<2
+Z148 Vij=5R=OW^_V8OZa8CSRK73
+R2
+Z149 w1457045491
+Z150 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/UnidadeControle.v
+Z151 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/UnidadeControle.v
+L0 2
+R3
 r1
 31
-Z157 !s108 1457357222.656000
-Z158 !s107 ram.v|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v|
-Z159 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v|
-R12
-Z160 nzzz@teste@memoria
-Z161 !s100 :KcUN6V]4k`KV9@TjM2b03
+R4
+Z152 n@unidade@controle
+!i10b 1
+Z153 !s100 bUemOUdaY52LYKiL35HSF1
+!s85 0
+Z154 !s108 1457964092.273000
+Z155 !s107 C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/UnidadeControle.v|
+Z156 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/processador/sim/UnidadeControle.v|
+!s101 -O0
+vzzzTesteMemoria
+Z157 I@c]k6WPOg:11P0LC949`O2
+Z158 VdfN9gQS5e`1BAZ>FXe=W80
+R43
+Z159 w1457353297
+Z160 8C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v
+Z161 FC:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v
+L0 3
+R3
+r1
+31
+Z162 !s108 1457357222.656000
+Z163 !s107 ram.v|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v|
+Z164 !s90 -reportprogress|300|-work|work|C:/Users/Paty/Documents/uefs/2015.2/SD/problema2/problema2/sim/zzzTesteMemoria.v|
+R4
+Z165 nzzz@teste@memoria
+Z166 !s100 :KcUN6V]4k`KV9@TjM2b03
 !i10b 1
 !s85 0
 !s101 -O0

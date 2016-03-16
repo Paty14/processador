@@ -19,7 +19,7 @@ module IntegradorGeral(clock, reset);
   wire [31:0] instrucao, Saida_ULA, Saida_MemoriaDados, A, B, constanteExtendida, PC;
 
   
-   UnidadeControle UnidadeControle(
+  UnidadeControle UnidadeControle(
     .clock(clock), 
     .reset(1'b0), 
     .instrucao(instrucao),

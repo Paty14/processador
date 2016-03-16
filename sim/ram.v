@@ -20,11 +20,10 @@ module ram(Reset, WE, CLK, ADDRESS, Q);
   initial
 	$readmemh(`ROM_FILE, ram_mem); 
 
-	  
 	always @ (negedge CLK) begin
 		if(Reset)  
 			Q = {32{1'b0}};
-		
-		Q = ram_mem[ADDRESS];			
+		if(WE)		
+			Q = ram_mem[ADDRESS];			
 	end
 endmodule

@@ -14,13 +14,16 @@ module memoriaDados(read_file, write_file, WE, CLK, ADDRESS, DATA, Q);
   reg[31:0] ram_mem[0:dim-1];
 
   integer i;
-  initial
+  initial begin
     for(i = 0; i < dim; i = i + 1)
       ram_mem[i] = {32{1'b0}};
 
+    $readmemh("ram.in", ram_mem);
+  end 
+
   assign Q = ram_mem[ADDRESS];
 
-  always @(posedge CLK)
+  always @(posedge CLK)                 //escreve em nível alto
     if (WE == 1'b1)
       ram_mem[ADDRESS] <= DATA;
 
